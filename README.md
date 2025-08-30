@@ -19,49 +19,48 @@
 
   <div class="container">
 
-    <header>
+  <header>
 
-      <h1>Dharshini s</h1>
+  <h1>Dharshini s</h1>
 
-      <p class="tagline">I'm a multitasker</p>
+  <p class="tagline">I'm a multitasker</p>
 
-    </header>
+ </header>
 
-    <section class="about">
+<section class="about">
 
-      <h2>About Me</h2>
+<h2>About Me</h2>
 
-      <p>I’m passionate about HTML programming and love multitasking across tech projects.</p>
+   <p>I’m passionate about HTML programming and love multitasking across tech projects.</p>
 
-    </section>
+ </section>
 
-    <section class="skills">
+<section class="skills">
 
-      <h2>Skills</h2>
+  <h2>Skills</h2>
 
-      <ul>
+   <ul>
 
-        <li>HTML Programming</li>
+<li>HTML Programming</li>
 
-      </ul>
+ </ul>
 
-    </section>
+ </section>
 
-    <section class="contact">
+ <section class="contact">
 
-      <h2>Contact</h2>
+ <h2>Contact</h2>
+ <p>📧 Email: <a href="mailto:dharshinisuresh114@gmail.com">dharshinisuresh114@gmail.com</a></p>
 
-      <p>📧 Email: <a href="mailto:dharshinisuresh114@gmail.com">dharshinisuresh114@gmail.com</a></p>
+ <p>📞 Phone: <a href="tel:+919952392422">+91 99523 92422</a></p>
 
-      <p>📞 Phone: <a href="tel:+919952392422">+91 99523 92422</a></p>
+ </section>
 
-    </section>
+ <footer>
 
-    <footer>
+<p>&copy; 2025 Dharshini </p>
 
-      <p>&copy; 2025 Dharshini </p>
-
-    </footer>
+ </footer>
 
   </div>
 
